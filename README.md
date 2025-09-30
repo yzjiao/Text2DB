@@ -118,7 +118,7 @@ The model outputs will be saved under `./output/` with the following structure:
 ```
 
 
-## 📊 Evaluation
+### Evaluation
 
 The evaluation compares the model's output database with the ground truth database using Macro-averaged F1. The evaluation is included in the main python file.
 
