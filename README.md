@@ -4,7 +4,7 @@ Official repository for the paper [**TEXT2DB: Integration-Aware Information Extr
 
 This repository implements an automated system for database population that extracts structured information from text documents according to user instructions and populates databases accordingly.
 
-## 🌟 Dataset ([Google Drive](https://drive.google.com/drive/folders/13f3dkqTffrYI_ro4DpgE6Jk0-QYqjGMP?usp=sharing))
+## 🌟 Dataset ([Download Here](https://drive.google.com/drive/folders/13f3dkqTffrYI_ro4DpgE6Jk0-QYqjGMP?usp=sharing))
 
 The dataset consists of database population tasks across three categories:
 - **Data Infilling (di)**: Filling missing values in existing database rows
